@@ -1,4 +1,5 @@
 {
+  "db_path": "catty.db"
   "db_config": {
     "host": "db",
     "port": 3306,
